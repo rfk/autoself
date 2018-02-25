@@ -1,5 +1,12 @@
+Status: Unmaintained
+====================
 
-    autoself:  automagically add method definition boilerplate
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+I am [no longer actively maintaining this project](https://rfk.id.au/blog/entry/archiving-open-source-projects/).
+
+autoself:  automagically add method definition boilerplate
+==========================================================
 
 First, a disclaimer.  Explicit self is good.  Bytecode hacks are bad.
 Put them together and it's quite clear that THIS MODULE IS AN ABOMINATION!
